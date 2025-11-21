@@ -9,5 +9,5 @@ jobs:
         run: echo "Bienvenue dans mon premier workflow GitHub Actions !"
       - name: 2) Afficher la date du système
         run: date
-      - name: 3) Afficher fficher le répertoire courant:
+      - name: 3) Afficher fficher le répertoire courant
         run: pwd
